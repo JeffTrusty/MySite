@@ -1,0 +1,726 @@
+<!DOCTYPE	html>
+<html lang="en">
+
+<head>
+	<title>
+		Jeff's Links
+	</title>
+	<script type="text/javascript" src="jquery-1.6.min.js"></script>
+	<script type="text/javascript" src="ExpandCollapse.js"></script>
+	<script type="text/javascript" src="openInNewTab.js"></script>
+	<link rel="stylesheet" type="text/css" href="iisstart.css" media="screen">
+
+</head>
+
+<body>
+	<!--
+<video width="400" height = "300" controls>
+        <source src="\\i7\F_Drive\Libraries\Video\Music Videos\Adele - Hello.mp4" type = "video/mp4">
+                Browser does not support the video tag.
+        </video>
+-->
+
+
+	<!--  Site Table  -->
+
+	<table>
+		<tr>
+			<td>
+				&nbsp;
+			</td>
+
+
+			<td valign="top">
+				<table>
+
+
+
+					<!--  Column 1 Section 1  -->
+					<div class="section" id="autoopen">
+						<div class="section_title">
+							<p>Google</p>
+						</div>
+						<div class="section_container">
+							<div class="section_container_links">
+								<div onclick="openInNewTab('https://www.google.com/');">Google</div>
+								<div onclick="openInNewTab('https://calendar.google.com/');">Calendar</div>
+								<div onclick="openInNewTab('https://contacts.google.com/');">Contacts</div>
+								<div onclick="openInNewTab('https://www.google.com/dashboard/');">Google Dashboard</div>
+								<div onclick="openInNewTab('https://drive.google.com/');">Google Drive</div>
+								<div onclick="openInNewTab('https://keep.google.com/');">Keep</div>
+								<div onclick="openInNewTab('https://maps.google.com/');">Maps</div>
+								<div onclick="openInNewTab('https://play.google.com/music/listen#/now');">Google Music</div>
+								<div onclick="openInNewTab('https://news.google.com/');">Google News</div>
+								<div onclick="openInNewTab('https://photos.google.com/');">Google Photos</div>
+								<div onclick="openInNewTab('https://play.google.com/store');">Google Play Store</div>
+								<div onclick="openInNewTab('https://www.google.com/voice#inbox');">Google Voice</div>
+								<div onclick="openInNewTab('https://mail.google.com');">GMail</div>
+								<div onclick="openInNewTab('https://sites.google.com/site/jefftrusty/');">Google Jeff Trusty Site</div>
+								<div onclick="openInNewTab('https://www.youtube.com/');">YouTube</div>
+								<br />
+							</div>
+						</div>
+					</div>
+
+
+
+					<!--  Column 1 Section 2  -->
+					<div class="section">
+						<div class="section_title">
+							<p>Work</p>
+						</div>
+						<div class="section_container">
+							<div class="section_container_links">
+								<div onclick="openInNewTab('https://myappsremote.uhc.com/');">My Apps Remote</div>
+								<div onclick="openInNewTab('https://login.salesforce.com/home/home.jsp/');">Salesforce Production (n)</div>
+								<div onclick="openInNewTab('https://optum.webcomcpq.com');">Callidus Production (wed01)</div>
+								<br />
+								<div onclick="openInNewTab('https://test.salesforce.com/home/home.jsp/');">Salesforce Non-Prod (n)</div>
+								<div onclick="openInNewTab('https://optumstage.webcomcpq.com');">Callidus Stage (wed01)</div>
+								<br />
+								<div onclick="openInNewTab('https://optumtest.webcomcpq.com');">Callidus TEST (wed01)</div>
+								<br />
+								<div onclick="openInNewTab('https://teststable.webcomcpq.com');">Callidus Dev (Domain: Optum360_dev wed01)</div>
+								<br />
+								<div onclick="openInNewTab('https://calliduseducation.litmos.com/home/Dashboard');">Callidus Education (fri10)</div>
+							</div>
+						</div>
+					</div>
+
+					<!--  Column 1 Section 3  -->
+					<div class="section">
+						<div class="section_title">
+							<p>Development / Learning</p>
+						</div>
+						<div class="section_container">
+							<div class="section_container_links">
+								<div onclick="openInNewTab('https://www.udemy.com/home/my-courses/learning/?category_filter=favorited');">Udemy</div>
+								<div onclick="openInNewTab('http://www.microsoftvirtualacademy.com/');">Microsoft Virtual Acadamy</div>
+								<div onclick="openInNewTab('https://optum.skillport.com/');">Skillport Books 24x7</div>
+								<div onclick="openInNewTab('https://www.Lynda.com');">Lynda</div>
+								<div onclick="openInNewTab('https://www.udacity.com');">Udacity</div>
+								<div onclick="openInNewTab('https://www.pluralsight.com/browse/');">Pluralsight</div>
+								<div onclick="openInNewTab('https://developer.salesforce.com/trailhead/trail/force_com_dev_beginner');">Developer.SalesForce.com
+									Trails</div>
+								<br />
+								<div onclick="openInNewTab('http://www.learnvisualstudio.net');">Learn .Net</div>
+								<div onclick="openInNewTab('http://www.trainingspot.com/Subscriber/');">SQL Training Spot</div>
+								<br />
+								<div onclick="openInNewTab('http://my.visualstudio.com/');">MSDN Visual Studio Subscription</div>
+								<div onclick="openInNewTab('https://manage.windowsazure.com/?whr=#Workspaces/All/dashboard');">Azure Dashboard</div>
+								<div onclick="openInNewTab('http://jtrusty.sharepoint.com/');">SharePoint (Jeff@JTrusty.onmicrosoft.com)</div>
+								<div onclick="openInNewTab('https://www.microsoftelearning.com/default.aspx');">MS E-Learning</div>
+								<div onclick="openInNewTab('http://www.w3schools.com/');">HTML w3schools.com</div>
+								<div onclick="openInNewTab('http://www.w3.org/MarkUp/html-spec/html-spec_13.html');">HTML Coded Char Set</div>
+								<div onclick="openInNewTab('http://poseidon.slcc.edu/hmain.html');">HTML Tutorials</div>
+								<!--
+				<div onclick="openInNewTab('URL');">Label</div>
+				<div onclick="openInNewTab('URL');">Label</div>
+				<div onclick="openInNewTab('URL');">Label</div>
+				<div onclick="openInNewTab('URL');">Label</div>
+				<div onclick="openInNewTab('URL');">Label</div>
+ -->
+								<li><a href="https://www.codeschool.com/learn/" target="_blank">Code School</a></li>
+								<li><a href="http://www.codecademy.com/" target="_blank">Code Acadamy</a></li>
+								<li><a href="http://freecodecamp.com/" target="_blank">Free Code Camp</a></li>
+								<li><a href="https://www.khanacademy.org/" target="_blank">Kahn Acadamy</a></li>
+								<li><a href="http://www.windowsforms.com/" target="_blank">.NET Client Web</a></li>
+								<li><a href="http://www.asp.net/" target="_blank">ASP.NET Web</a></li>
+								<li><a href="http://www.learnasp.com/freebook/learn/datasets.aspx" target="_blank">Datasets vs. Recordsets</a></li>
+								<li><a href="http://www.pdsa.com" target="_blank">PDSA</a></li>
+								<li><a href="http://searchdatabase.techtarget.com/" target="_blank">SearchDataBase</a></li>
+								<li><a href="http://www.codehound.com/vb/" target="_blank">VB CodeHound</a></li>
+								<br />
+							</div>
+						</div>
+					</div>
+
+
+					<!--  Column 1 Section 4  -->
+					<div class="section">
+						<div class="section_title">
+							<p>SQL Server</p>
+						</div>
+						<div class="section_container">
+							<div class="section_container_links">
+								<ul>
+									<li><a href="http://www.sqlservercentral.com" target="_blank">SQL Server Central</a></li>
+									<li><a href="http://www.connectionstrings.com/" target="_blank">Connection Strings</a></li>
+									<li><a href="http://www.sqlservervideos.com/" target="_blank">Free SQL Videos</a></li>
+									<li><a href="http://www.mosha.com/msolap/tech.htm#Whitepapers" target="_blank">OLAP Whitepapers</a></li>
+									<li><a href="http://www.replicationanswers.com/" target="_blank">Replication Answers</a></li>
+									<li><a href="http://blogs.msdn.com/sqlcat/" target="_blank">SQL Dev Customer Advisory Team</a></li>
+									<li><a href="http://www.sqldts.com/" target="_blank">SQL DTS</a></li>
+									<li><a href="http://education.sqlfarms.com/" target="_blank">SQL Farms</a></li>
+									<li><a href="http://www.sqlis.com/" target="_blank">SQL SSIS</a></li>
+									<li><a href="http://www.sommarskog.se/arrays-in-sql.html#list-of-string-proc" target="_blank">sql stuff</a></li>
+									<li><a href="http://www.trainingspot.com/Subscriber/" target="_blank">SQL Training Spot</a></li>
+									<li><a href="http://www.sql-server-%20performance.com/" target="_blank">sql-server-performance</a></li>
+									<li><a href="http://www.simple-talk.com/sql/t-sql-programming/the-tsql-of-text-files/" target="_blank">T-SQL
+											and Text files</a></li>
+									<br />
+								</ul>
+							</div>
+						</div>
+					</div>
+
+					<!--  Column 1 Section 5  -->
+					<div class="section">
+						<div class="section_title">
+							<p>Visual FoxPro</p>
+						</div>
+						<div class="section_container">
+							<div class="section_container_links">
+								<ul>
+									<li><a href="http://www.news2news.com/vfp/" target="_blank">(WinAPI) Functions in VFP</a></li>
+									<li><a href="http://www.gotdotnet.com/team/vfp/" target="_blank">About VFP with .NET</a></li>
+									<li><a href="http://game.panlogic.net/" target="_blank">BBC LEARNING</a></li>
+									<li><a href="http://www.black-beans.com.br/homebb_eng.htm" target="_blank">Black Beans for VFP</a></li>
+									<li><a href="http://forums.compuserve.com/vlforums/default.asp?SRV=MSDevApps" target="_blank">CompuServe
+											Forums</a></li>
+									<li><a href="http://www.craigberntson.com/" target="_blank">Craig Berntson</a></li>
+									<li><a href="http://development.freeservers.com/" target="_blank">Development Freeservers</a></li>
+									<li><a href="http://www.flexfxp.com/tutorial.html" target="_blank">FlexFXP Newbie Help</a></li>
+									<li><a href="http://www.foxforum.com/default.asp" target="_blank">Fox Forum</a></li>
+									<li><a href="http://fox.wikis.com/wc.dll?Wiki~FoxForumWiki" target="_blank">Fox Wiki</a></li>
+									<li><a href="http://www.foxcentral.net/" target="_blank">FoxCentral.net</a></li>
+									<li><a href="http://www.foxite.com/" target="_blank">Foxite</a></li>
+									<li><a href="http://www.hallogram.com/foxrunner/" target="_blank">FoxRunner</a></li>
+									<li><a href="http://www.foxtools.com/" target="_blank">FoxTools.Com</a></li>
+									<li><a href="http://www.hentzenwerke.com/" target="_blank">Hentzenwerke</a></li>
+									<li><a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnfoxgen7/html/vfp7_Intellisense.asp"
+										 target="_blank">IntelliSense in VFP 7.0</a></li>
+									<li><a href="http://www.leafe.com/" target="_blank">leafe.com</a></li>
+									<li><a href="http://www.free-ed.net/fr03/lfc/030101/129/" target="_blank">Mastering Visual FoxPro</a></li>
+									<li><a href="http://www.ml-consult.demon.co.uk/index.htm" target="_blank">Mike Lewis VFP Page</a></li>
+									<li><a href="http://msdn.microsoft.com/vfoxpro" target="_blank">MS VFP Home Page</a></li>
+									<li><a href="http://www.oakleafsd.com/" target="_blank">Oak Leaf Enterprises</a></li>
+									<li><a href="http://www.slcfox.org/" target="_blank">SLC VFP User Group</a></li>
+									<li><a href="http://sourceforge.net/projects/codebook/" target="_blank">SourceForge.net</a></li>
+									<li><a href="http://www.ukfug.org.uk/" target="_blank">ukfug.org.uk</a></li>
+									<li><a href="http://www.universalthread.com/VisualFoxPro/" target="_blank">Universal Thread</a></li>
+									<li><a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnfoxgen7/html/usingaspnetwithvfp7.asp"
+										 target="_blank">Using ASP.NET with VFP 7.0</a></li>
+									<li><a href="http://vfug.org:8080/VFUGOrg/Index.Htm" target="_blank">VFUG</a></li>
+									<li><a href="http://www.xmethods.com/" target="_blank">Web Services from xmethod</a></li>
+									<li><a href="http://fox.wikis.com/wc.dll?wiki~CBSampleAppDocs" target="_blank">Wiki-CBSampleAppDocs</a></li>
+									<li><a href="http://fox.wikis.com/wc.dll?Wiki~VisualFoxPro" target="_blank">Wiki-VisualFoxPro</a></li>
+									<br />
+								</ul>
+							</div>
+						</div>
+					</div>
+			</td>
+	</table>
+	</td>
+
+	<td valign="top">
+		<table>
+
+			<!--  Column 2 Section 1  -->
+			<div class="section" id="autoopen">
+				<div class="section_title">
+					<p>Favorites</p>
+				</div>
+				<div class="section_container">
+					<div class="section_container_links">
+						<ul>
+							<div onclick="openInNewTab('https://google.com');">Google</div>
+							<li><a href="https://webaccess.americafirst.com/AFCU/Login.aspx" target="_blank">America First
+									CU</a></li>
+							<div onclick="openInNewTab('https://mail.google.com');">GMail</div>
+							<div onclick="openInNewTab('https://enlighten.enphaseenergy.com/');">My Enlighten</div>
+							<br />
+							<li><a href="http://www.msn.com/" target="_blank">MSN Home</a></li>
+							<div onclick="openInNewTab('http://google.com/news');">Google News</div>
+							<br />
+							<li><a href="http://www.bing.com/" target="_blank">Bing</a></li>
+							<li><a href="http://www.cnet.com/" target="_blank">C|Net</a></li>
+							<li><a href="http://www.evernote.com/" target="_blank">Evernote</a></li>
+							<li><a href="ftp://166.70.233.94:8080/" target="_blank">My Home FTP</a></li>
+							<li><a href="http://166.70.233.94/#autoopen" target="_blank">My Home Site</a></li>
+							<li><a href="http://www.facebook.com/home.php" target="_blank">Facebook</a></li>
+							<li><a href="https://www.facebook.com/groups/416775125153511/" target="_blank">Facebook Weigh to Health</a></li>
+							<li><a href="http://www.myfitnesspal.com/" target="_blank">MyFitnessPal</a></li>
+							<li><a href="http://www.twit.tv" target="_blank">TWiT</a></li>
+							<br />
+							<li><a href="http://166.70.233.94:4040/subsonic/index.view" target="_blank">SubSonic</a></li>
+							<li><a href="http://166.70.233.94:32400/web/index.html" target="_blank">Plex</a></li>
+							<br />
+							<li><a href="https://onlinefamily.norton.com/familysafety/loginStart.fs" target="_blank">Norton Family Online</a></li>
+							<li><a href="http://www.slvhealth.org/" target="_blank">SLC Health</a></li>
+							<li><a href="http://www.wxpnews.com/B7TX8M/070227-Lunch" target="_blank">Wheel of Lunch</a></li>
+							<li><a href="http://www.wolframalpha.com" target="_blank">WolfRamAlpha (misc info)</a></li>
+							<li><a href="https://home.xmission.com/" target="_blank">XMission Home</a></li>
+							<li><a href="http://www.xmission.com/speedtest" target="_blank">Xmission Speed Test</a></li>
+							<li><a href="http://user.xmission.com/~jeff_trusty/" target="_blank">Xmission My Site</a></li>
+							<br />
+						</ul>
+					</div>
+				</div>
+			</div>
+
+
+			<!--  Column 2 Section 2  -->
+			<div class="section" id="autoopen">
+				<div class="section_title">
+					<p>Online Accounts</p>
+				</div>
+				<div class="section_container">
+					<div class="section_container_links">
+						<ul>
+							<li><a href="https://www.americafirst.com/redirect/clickthrough.cfm?dest=waLogin" target="_blank">America First
+									CU</a></li>
+							<br />
+							<li><a href="https://smile.amazon.com" target="_blank">Amazon</a></li>
+							<li><a href="https://www.onlinecreditcenter6.com/consumergen2/login.do?subActionId=1000&clientId=amazon&langId=en&accountType=plcc&landingpg=1800"
+								 target="_blank">Amazon Account</a></li>
+							<li><a href="http://www.audible.com/adbl/store/welcome.jsp" target="_blank">Audible</a></li>
+							<li><a href="http://www.bestbuy.com" target="_blank">Best Buy</a></li>
+							<li><a href="https://www.accountonline.com/cards/svc/Login.do?siteId=BESTBUY" target="_blank">Best Buy Account</a></li>
+							<li><a href="https://www.mysynchrony.com" target="_blank">Care Credit</a></li>
+							<li><a href="https://www.Chase.com" target="_blank">Chase</a></li>
+							<li><a href="https://online.citi.com" target="_blank">Costco / Citi</a></li>
+							<li><a href="https://my.dish.com/" target="_blank">Dish Network</a></li>
+							<li><a href="http://www.directv.com/" target="_blank">Direct TV</a></li>
+							<li><a href="http://www.lowes.com" target="_blank">Lowes</a></li>
+							<li><a href="http://www.lowes.com/credit" target="_blank">Lowes Account</a></li>
+							<li><a href="https://www.myuhc.com/" target="_blank">My UHC</a></li>
+							<li><a href="http://DVD.com/" target="_blank">DVD.com</a></li>
+							<li><a href="http://netflix.com/" target="_blank">Netflix</a></li>
+							<li><a href="http://www.rockymountainpower.net/" target="_blank">Rocky Mountain Power</a></li>
+							<li><a href="http://my.t-mobile.com" target="_blank">T-Mobile</a></li>
+							<br />
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<!--  Column 2 Section 3  -->
+			<div class="section">
+				<div class="section_title">
+					<p>Fun</p>
+				</div>
+				<div class="section_container">
+					<div class="section_container_links">
+						<ul>
+							<li><a href="http://www.netives.com/" target="_blank">Marbles Site</a></li>
+							<br />
+							<li><a href="http://www.audiobooksforfree.com/" target="_blank">Audio Books for Free</a></li>
+							<li><a href="http://babelfish.altavista.com/tr" target="_blank">Bablefish</a></li>
+							<li><a href="http://www.booksontape.com/" target="_blank">Books On Tape</a></li>
+							<li><a href="http://www.ucomics.com/calvinandhobbes/viewch.cfm" target="_blank">Calvin &amp; Hobbs</a></li>
+							<li><a href="http://www.unitedmedia.com/comics/dilbert/index.html" target="_blank">Dilbert</a></li>
+							<li><a href="http://www.dumbledoreisnotdead.com/introduction.html" target="_blank">Dumbledore's not Dead</a></li>
+							<li><a href="http://www.favewavs.com/" target="_blank">Fave Wavs</a></li>
+							<li><a href="http://www.hurtwood.demon.co.uk/Fun/copter.swf" target="_blank">Fun-copter</a></li>
+							<li><a href="http://www.ucomics.com/garfield/viewga.cfm" target="_blank">Garfield</a></li>
+							<li><a href="http://www.giveawayoftheday.com" target="_blank">Give Away of the Day</a></li>
+							<li><a href="http://www.goowy.com/webtop/" target="_blank">Goowy Web Desktop</a></li>
+							<li><a href="http://www.headlinehumor.com/signs.htm" target="_blank">Headline Humor</a></li>
+							<li><a href="http://encarta.msn.com/features/onThisDay.asp" target="_blank">On This Day</a></li>
+							<li><a href="http://www.meph.eu.org/pinguin.swf" target="_blank">Penquin Baseball</a></li>
+							<li><a href="http://www.the-leaky-%20cauldron.org/" target="_blank">The Leaky Cauldron</a></li>
+							<li><a href="http://www.rinkworks.com/said/" target="_blank">Things People Said</a></li>
+							<li><a href="http://www.graniteschools.org/el/truman/" target="_blank">Truman Elementary</a></li>
+							<li><a href="http://gb.granite.k12.ut.us/gb/login.asp" target="_blank">Valley Jr High</a></li>
+							<li><a href="http://virtualapple.org/" target="_blank">Virtual Apple</a></li>
+							<li><a href="http://www.wincustomize.com/" target="_blank">WinCustomize</a></li>
+							<li><a href="http://members.aol.com/axcel216/xptoy.htm" target="_blank">Windows 2000-XP Extras</a></li>
+							<li><a href="http://winsupersite.com/" target="_blank">Windows SuperSite</a></li>
+							<li><a href="http://community.winsupersite.com/blogs/paul/default.aspx" target="_blank">Windows SuperSite Blog</a></li>
+							<br />
+						</ul>
+					</div>
+				</div>
+			</div>
+
+		</table>
+
+		<!--  Column 3 Section 1  -->
+	<td valign="top">
+		<table>
+
+			<div class="section" id="autoopen">
+				<div class="section_title">
+					<p>Android</p>
+				</div>
+				<div class="section_container">
+					<div class="section_container_links">
+						<ul>
+							<li><a href="http://androidcentral.com/" target="_blank">Android Central</a></li>
+							<li><a href="http://www.androidpolice.com/" target="_blank">Android Police</a></li>
+							<li><a href="http://www.droid-life.com" target="_blank">Droid Life</a></li>
+							<br />
+							<li><a href="http://wiki.twit.tv/wiki/All_About_Android_Apps" target="_blank">AAA Apps</a></li>
+							<li><a href="http://www.cyanogenmod.com/" target="_blank">Cyanogen mod</a></li>
+							<br />
+							<li><a href="http://www.pocketables.com/2013/03/overview-of-pocketables-tasker-articles.html" target="_blank">Tasker
+									Articles</a></li>
+							<li><a href="http://tasker.wikidot.com/step-throughs" target="_blank">Tasker WikiDot</a></li>
+							<li><a href="http://androidforums.com/tasker/158265-what-tasker-profiles-everyone-using-thread-not-requesting-help-profiles.html"
+								 target="_blank">Tasker Phandroid</a></li>
+							<li><a href="http://www.droidforums.net/forum/android-applications/66195-what-have-you-done-tasker.html" target="_blank">Tasker
+									DroidForums</a></li>
+							<li><a href="https://groups.google.com/forum/#!forum/joaomgcd" target="_blank">Tasker Forums</a></li>
+							<br />
+							<li><a href="http://forum.xda-developers.com/nexus-6p/development" target="_blank">Nexus 6P Dev</a></li>
+							<li><a href="http://forum.xda-developers.com/nexus-6p/orig-development" target="_blank">Nexus 6P Original</a></li>
+							<li><a href="http://forum.xda-developers.com/nexus-7-2013/development" target="_blank">Nexus 7 Dev</a></li>
+							<li><a href="http://forum.xda-developers.com/nexus-7-2013/orig-development" target="_blank">Nexus 7 Original Dev</a></li>
+							<br />
+							<li><a href="http://forum.xda-developers.com/tmobile-g2/development" target="_blank">XDA G2 Dev</a></li>
+							<li><a href="http://forum.xda-developers.com/oneplus-one/development" target="_blank">OnePlus-One</a></li>
+							<li><a href="http://dwnld.aicp-rom.com" target="_blank">AICP Downloads</a></li>
+							<br />
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<!--  Column 3 Section 2  -->
+			<div class="section">
+				<div class="section_title">
+					<p>Torrents</p>
+				</div>
+				<div class="section_container">
+					<div class="section_container_links">
+						<ul>
+							<li><a href="http://www.demonoid.ph/files/" target="_blank">Demonoid</a></li>
+							<li><a href="http://www.pussytorrents.org/" target="_blank">Filelist2</a></li>
+							<!--		                <li><a href="http://h33t.com/" target="_blank">h33t.com</a></li>
+		                <li><a href="http://www.nutorrent.com/" target="_blank">Filelist</a></li>
+		                <li><a href="http://kat.ph/" target="_blank">Kickass Torrents</a></li>
+		                <li><a href="http://isohunt.com/" target="_blank">ISO Hunt</a></li>
+		                <li><a href="http://www.niteshdw.com/" target="_blank">Nite Shadow</a></li>
+		                <li><a href="http://thepiratebay.org/" target="_blank">Pirate Bay</a></li>
+		                <li><a href="http://www.mininova.org/" target="_blank">MiniNova</a></li>-->
+							<br />
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<!--  Column 3 Section 3  -->
+			<div class="section">
+				<div class="section_title">
+					<p>Misc</p>
+				</div>
+				<div class="section_container">
+					<div class="section_container_links">
+						<ul>
+							<li><a href="http://www.techsupportalert.com/best_46_free_utilities.htm" target="_blank">Free Utilities</a></li>
+							<li><a href="http://www.techsupportalert.com/more/extended.htm" target="_blank">Free Utilities 2</a></li>
+							<li><a href="http://www.nonags.com/" target="_blank">Nonags</a></li>
+							<li><a href="http://www.winfiles.com/" target="_blank">Winfiles.com</a></li>
+							<li><a href="http://192.168.15.1/" target="_blank">LinkSys 54g</a></li>
+							<li><a href="http://192.168.1.1" target="_blank">LinkSys 610n</a></li>
+							<br />
+							<li><a href="http://www.nu2.nu/bootablecd/" target="_blank">Bootable CD's</a></li>
+							<li><a href="http://www.digitalblasphemy.com/" target="_blank">Digitalblasphemy</a></li>
+							<li><a href="http://money.cnn.com/magazines/fortune/fortune500/2011/full_list/" target="</li>_blank">Fortune 500
+									list</a>
+							<li><a href="http://www.pcmag.com/default/0,1007,,00.asp" target="_blank">PC Magazine</a></li>
+							<li><a href="http://www.pcpitstop.com/" target="_blank">PC Pitstop Home</a></li>
+							<li><a href="http://www.pcworld.com/" target="_blank">PC World</a></li>
+							<li><a href="http://www.pricewatch.com/" target="_blank">Price Watch</a></li>
+							<li><a href="http://www.pricegrabber.com/index.php/ut=0cff1e7f3fa7afbc" target="_blank">PriceGrabber.com</a></li>
+							<li><a href="http://www.slcolibrary.org/rc/rcbg/htm/descriptionEAudioBooks.htm" target="_blank">Salt Lake Co
+									Library</a></li>
+							<li><a href="http://mail.chc-%20ut.org/servlet/webacc" target="_blank">Sherry's E-Mail</a></li>
+							<li><a href="http://www.sms411.net/" target="_blank">SMS 411</a></li>
+							<li><a href="http://www.soundamerica.com/" target="_blank">Sound America</a></li>
+							<li><a href="http://www.space.com/" target="_blank">Space.com</a></li>
+							<li><a href="http://www.utahcommuterlink.com/" target="_blank">Utah Commuter Link</a></li>
+							<li><a href="http://www.kingsley-%20hughes.com/tech/security/wep.htm#random" target="_blank">WEP Key Generator</a></li>
+							<li><a href="http://www.microsoft.com/isapi/redir.dll?prd=ie&amp;ar=windows" target="_blank">Windows</a></li>
+							<li><a href="http://www.microsoft.com/isapi/redir.dll?prd=ie&amp;ar=windowsmedia" target="_blank">Windows Media</a></li>
+							<li><a href="http://v4.windowsupdate.microsoft.com/en/default.asp" target="_blank">Windows Update</a></li>
+							<li><a href="http://www.zune.net" target="_blank">Zune</a></li>
+							<li><a href="http://www.alisonspantry.com/" target="_blank">Alison's Pantry</a></li>
+							<li><a href="http://www.logmein.com" target="_blank">Alisons Remote Access</a></li>
+							<li><a href="http://www.annoyances.org/exec/forum/winxp/" target="_blank">Annoyances.org</a></li>
+							<li><a href="http://www.answersthatwork.com/" target="_blank">Answers That Work</a></li>
+							<br />
+						</ul>
+					</div>
+				</div>
+			</div>
+
+	</td>
+	</table>
+
+	</td>
+	</tr>
+	</table>
+	<p>
+		<br />
+	</p>
+</body>
+
+</html>
+
+
+<!--  Column 1 Section 1  -->
+
+<!--<table>
+            <tr>
+              <td class="c2">
+                 UHG
+              </td>
+            </tr>
+            <tr>
+              <td class="c1">
+                <a href="https://eccssl.bc.uhc.com/qcs" target="_blank">Remote Access</a>
+                <br />
+                <a href="https://myappsremote.uhc.com" target="_blank">MyApps Remote</a>
+                <br />
+                <br />
+                <a href="http://webe0002/ad/SearchPage.aspx" target="_blank">AD Info</a>
+                <br />
+                <a href="http://ntlookup.uhc.com/Default.aspx" target="_blank">AD Group &amp; user membership</a>
+                <br />
+                <a href="http://it.uhc.com/At_Your_Service/" target="_blank">At Your Service</a>
+                <br />
+                <a href="http://gdv8-sstshpt2/sites/IngenixDeptShares/IET/OPS/DCOKC/interops/sysmon/syseng/chgmgmt/default.aspx" target="_blank">CAQH Sharepoint</a>
+                <br />
+                <a href="http://it.uhc.com/Infrastructure/ITSM/Change/Pages/default.aspx" target="_blank">Change Management Info</a>
+                <br />
+                <a href="http://myapps.uhc.com/" target="_blank">Citrix Plymouth</a>
+                <br />
+                <a href="http://myappsdev.uhc.com" target="_blank">Citrix Plymouth NonProd</a>
+                <br />
+                <a href="http://hcsweb/siteprofile/DomIDLookup.asp" target="_blank">Domain Info</a>
+                <br />
+                <a href="https://srcprod.uhc.com/ServiceRequest/myRequests.jsf" target="_blank">Citrix SRC Request Site</a>
+                <br />
+                <a href="http://frontier.uhc.com/" target="_blank">Frontier</a>
+                <br />
+                <a href="http://uhtdesk.uhc.com/" target="_blank">Help Desk</a>
+                <br />
+                <a href="http://apsw0153/onlinehelp/" target="_blank">HPSD Help</a>
+                <br />
+                <a href="https://hpsm.uhc.com/sm/index.do" target="_blank">HPSM</a>
+                <br />
+                <a href="https://www.unitedhrdirect.com" target="_blank">HR Direct</a>
+                <br />
+                <a href= "https://releaseservices.uhc.com/itg/web/knta/crt/RequestCreate.jsp?REQUEST_TYPE_CREATE=5.16.32898.Database+General" target="_blank">ITG DB General</a>
+                <br />
+                <a href="http://alarmpoint.uhc.com" target="_blank">MS Monitoring / Alerts</a>
+                <br />
+                <a href="http://igxprjsvrprd/projectserver/Tasks/TasksPage.asp" target="_blank">MS Project</a>
+                <br />
+                <a href="http://ovr.uhc.com" target="_blank">MS System Reporting</a>
+                <br />
+                <a href="http://mypc" target="_blank">My PC Info</a>
+                <br />
+                <a href="http://APSW0554EVS.ms.ds.uhc.com/exchange" target="_blank">Outlook Web Access</a>
+                <br />
+                <a href="http://apse9194.uhc.com/PerformanceMetrics" target="_blank">Phoenix Perfomance Metrics</a>
+                <br />
+                <a href="http://slcd7phxacc01/AutoDeploy/" target="_blank">Phoenix Service Deployment Site</a>
+                <br />
+                <a href="http://10.233.67.35/ccmuser" target="_blank">Phone Settings</a>
+                <br />
+                <a href="http://ipv.uhc.com/planview/login/body.asp" target="_blank">Plan View</a>
+                <br />
+                <a href="https://sats.uhc.com/appAdmin/" target="_blank">SATS App admin</a>
+                <br />
+                <a href="https://sats.uhc.com/sats/" target="_blank">Sats Requests</a>
+                <br />
+                <a href="http://apse9063/SQLdm/default.aspx" target="_blank">SQL Diag.</a>
+                <br />
+                <a href="http://uhtdesk.uhc.com/technicalIssue.aspx" target="_blank">Submit HPSD ticket</a>
+                <br />
+                <a href="https://releaseservices.uhc.com/" target="_blank">USR replacement SRC</a>
+                <br />
+                <a href="http://deskpro.uhc.com/UHTUSR" target="_blank">USR Requests</a>
+                <br />
+                <a href="https://cwa.uhc.com/" target="_blank">Web Communicator</a>
+                <br />
+              </td>
+            </tr>
+          </table>
+          <br />-->
+
+
+<!--  Column 2 Section 1  -->
+<!--
+        <td valign="top">
+          <table >
+            <tr>
+              <td class="c2">
+                Optum-Ingenix
+              </td>
+            </tr>
+            <tr>
+              <td class="c1">
+                <a href="http://kb.accpac.com" target="_blank">AccPac Knowledge Base</a>
+                <br />
+                <a href="http://wiki.ingenix.com/pages/viewpage.action?pageId=18835459" target="_blank">App Support</a>
+                <br />
+                <a href="http://ingenixdocs.uhc.com/sites/DEPT/IET/cred/AppSuppLib/Forms/AllItems.aspx" target= "_blank">Application Support Library</a>
+                <br />
+                <a href="http://ingenixdocs.uhc.com/sites/DEPT/IET/cred/default.aspx" target="_blank">BSYS PS SharePoint</a>
+                <br />
+                <a href="http://ingenixdocs.uhc.com/sites/DEPT/IET/cred/BSYSLib/Forms/AllItems.aspx" target= "_blank">BSYS Dev SharePoint</a>
+                <br />
+                <a href="http://slct7onyxsql01.pcl.ingenix.com/flexwiki/" target="_blank">BSYS WIKI</a>
+                <br />
+                <a href="http://wiki.ingenix.com/display/i3g/Business+Systems+Support+Team+Contacts" target= "_blank">Business Systems Support Contacts</a>
+                <br />
+                <a href="http://slcp7ibsgcs01:8080/businessobjects/enterprise115/adminlaunch/launchpadredirect.jsp" target="_blank">BusinessObjects Admin</a>
+                <br />
+                <a href="http://slcp7ibsgcs01/businessobjects/enterprise115/help/en/administration/html/default.htm" target="_blank">BusinessObjects Help</a>
+                <br />
+                <a href="http://ingxctx.ingenix.com" target="_blank">Citrix SLC</a>
+                <br />
+                <a href="http://slc7-phnx6.pcl.ingenix.com/crystal/enterprise9" target="_blank">Crystal Management Console</a>
+                <br />
+                <a href= "http://slc7-phnx6.pcl.ingenix.com/crystal/enterprise9/websamples/en/InstancesByStatus/main.csp?framework=undefined&amp;del=false&amp;display=true&amp;ids=" target="_blank">Crystal Reports Running</a>
+                <br />
+                <a href="http://slct7onyxsql02/EnvironmentControl/publish.htm" target="_blank">BSYS Environment Controls</a>
+                <br />
+                <a href="http://slc7-phnx6.pcl.ingenix.com/analytics/" target="_blank">GCS</a>
+                <br />
+                <a href="http://slc7-phnx6/rptdoc/" target="_blank">GCS Report information</a>
+                <br />
+                <a href="http://slcp8onyxiis01.pcl.ingenix.com/OES_Win_Ingx_Prod/SecurityAdministration/main.asp" target="_blank">I-Onyx Admin Screen</a>
+                <br />
+                <a href="http://slc7-onyx3.pcl.ingenix.com/iap/" target="_blank">IAP</a>
+                <br />
+                <a href="http://slc7-iis1.pcl.ingenix.com/oep_intapp_prod_win/powerpage/main_frame.asp" target= "_blank">IBIS</a>
+                <br />
+                <a href="http://slc7-iis1.pcl.ingenix.com/OCP_IntApp_Prod/" target="_blank">IBIS Customer Portal</a>
+                <br />
+                <a href="http://10.231.236.35:8080/" target="_blank">IBIS Glass IBIS</a>
+                <br />
+                <a href="http://slc7-onyx6/ps_portal" target="_blank">IBIS Priority Portal</a>
+                <br />
+                <a href="http://ingenixdocs.uhc.com/sites/IGT/CM/default.aspx" target="_blank">Optum Change Control</a>
+                <br />
+                <a href="http://ingenixdocs.uhc.com/sites/DEPT3/OPS/DCOKC/interops/sysmon/chgmgmt/default.aspx" target= "_blank">Igx Change Management</a>
+                <br />
+                <a href="http://dco.optuminsight.com:8080/dco/resourceadmin/reports/adhocreport.jsp?cbxST" target= "_blank">Ingenix CAPP</a>
+                <br />
+                <a href="http://slcd7phxacc01/slmui/" target="_blank">Ingenix SLM</a>
+                <br />
+                <a href="http://inside.ingenix.com/Department/IngenixTechnologyServices/ingenixconciergeservice" target="_blank">Ingx Concierge Group</a>
+                <br />
+                <a href="http://inside.ingenix.com/Department/IngenixTechnologyServices/" target="_blank">Ingx Tech Services</a>
+                <br />
+                <a href="http://apsep0406.ms.ds.uhc.com/ips/IPSConfig.Web/default.aspx" target="_blank">IPS Admin</a>
+                <br />
+                <a href="http://inside.ingenix.com/Department/IngenixTechnologyServices/" target="_blank">IT Services</a>
+                <br />
+                <a href="http://wiki.ingenix.com/pages/viewpage.action?pageId=18825523" target="_blank">ITG Wiki</a>
+                <br />
+                <a href="http://inside.geoaccess.com/LYNx/SupportNotifications/SupportNotifications.asp" target= "_blank">LYNx Tickets</a>
+                <br />
+                <a href="http://10.231.223.30/OEP_Ingx_Prod" target="_blank">Onyx Emp Portal</a>
+                <br />
+                <a href="http://apse0223.uhc.com/VickieAI/StandardizeTest.aspx" target="_blank">Phx Addr Standardize</a>
+                <br />
+                <a href="http://slcd7ibsops01/slmui/" target="_blank">Prod Support SLM</a>
+                <br />
+                <a href="http://dco.ingenix.com:8080/dco/resourceadmin/reports/server_list_adhoc.jsp?loc=UT015&amp;bOSx86=1&amp;Popup=1&amp;Desc=x86-based%20Servers%20at%20WEST%20VALLEY%20CITY,%20UT" target="_blank">Server Info</a>
+                <br />
+                <a href="http://apse8221.uhc.com/CoordinatorPortal/CoordinatorPortal.application" target= "_blank">Service Coordinator PreProd</a>
+                <br />
+                <a href="http://phnxprod.uhc.com/CoordinatorPortal/CoordinatorPortal.application" target= "_blank">Service Coordinator Prod</a>
+                <br />
+                <a href="http://apse8219.uhc.com/CoordinatorPortal/CoordinatorPortal.application" target= "_blank">Service Coorinator SysTest</a>
+                <br />
+                <a href="http://inside.ingenix.com/Software/SoftwareOrderForm.aspx" target="_blank">Software Request site</a>
+                <br />
+                <a href="https://ingenixmeetingcenter.webex.com/mw0305l/mywebex/default.do?siteurl=ingenixmeetingcenter" target="_blank">WebEx</a>
+                <br />
+                <a href="http://wiki.ingenix.com/display/IBSSLC/Home" target="_blank">WIKI</a>
+                <br />
+              </td>
+            </tr>
+          </table>
+          <br />
+<!--
+
+<!--  Column 2 Section 2  -->
+<!--
+          <table>
+              <td class="c2">
+                Old Links
+              </td>
+              </tr>
+              <td class="c1">
+                <a href="http://wiki.ingenix.com/display/mpt/home" target="_blank">WIKI Med Point</a>
+                <br />
+              </td>
+          </table>
+-->
+
+
+<!--<a href="http://www.acsyndicate.net/" target="_blank">ACSyndicate.net</a>
+                <br />
+                <a href="http://androidandme.com/" target="_blank">Android and Me</a>
+                <br />
+                <a href="http://androidforums.com" target="_blank">Android Forums</a>
+                <br />
+                <a href="http://www.androidguys.com/" target="_blank">Android Guys</a>
+                <br />
+                <a href="http://androidspin.com/" target="_blank">Android Spin</a>
+                <br />
+                <a href="http://www.droiddog.com/" target="_blank">DroidDog</a>
+                <br />
+
+                <a href="http://androidforums.com/android-applications/35244-sweeterhome2-beta-%207.html" target= "_blank">Android Forums - SH2</a>
+                <br />
+                <a href="http://www.androidguys.com/" target="_blank">Android Guys</a>
+                <br />
+                <a href="http://appinventor.googlelabs.com/ode/Ya.html" target="_blank">App Inventor</a>
+                <br />
+                <a href="http://www.droidforums.net/" target="_blank">Droid Forums</a>
+                <br />
+                <a href="http://www.droidforums.net/forum/custom-roms/" target="_blank">Droid Forums - ROMS</a>
+                <br />
+                <a href="http://droidmuff.in/downloads/swype-preview/" target="_blank">Droid Muff.in</a>
+                <br />
+                <a href="http://droidmod.org/" target="_blank">DroidMod</a>
+                <br />
+                <a href="http://code.google.com/edu/" target="_blank">Google Code University</a>
+                <br />
+                <a href="http://www.howardforums.com/forumdisplay.php?f=533" target="_blank">Howard Forums</a>
+                <br />
+                <a href="http://www.humpa.com/vzw/" target="_blank">Humpa VZW</a>
+                <br />
+                <a href="http://www.launcherpro.com/forum/index.php" target="_blank">Launcher Pro</a>
+                <br />
+                <a href="http://www.mobiledefense.com" target="_blank">Mobile Defense</a>
+                <br />
+                <a href="http://phandroid.com/" target="_blank">Phandroid </a>
+                <br />
+                <a href="http://forum.xda-developers.com/showthread.php?t=824656" target="_blank">XDA Icons</a>
+                <br />
+                <a href="http://forum.xda-developers.com/showthread.php?t=1077278" target="_blank">XDA Metamorph</a>
+                <br />
+                <a href="http://jbthemes.com/djdarkknight/daswypethemes/" target="_blank">Themed Swype</a>
+                <br />
+                <a href="http://www.androidfilehost.com/?a=show&w=developers&did=12" target="_blank">Android File Host</a>
+                <br />
+                <br />
+                <a href="http://skaggzhackz.viviti.com" target="_blank">Skaggz</a>
+                <br />
+                <a href="http://www.sweeterhome.com/" target="_blank">Sweeter Home</a>
+                <br />
+                <a href="http://sweeterskins.net/" target="_blank">Sweeter Skins</a>
+                <br />
+                <a href="http://www.talkandroid.com/" target="_blank">Talk Android </a>
+                <br />
+                <a href="http://forum.xda-developers.com/" target="_blank">XDA Developer Forums</a>
+                <br />
+                <a href="http://forum.xda-developers.com/showthread.php?t=2124665" target="_blank">Morphology Forums</a>
+                <br />
+                -->
+<!--<a href="http://forum.xda-developers.com/tmobile-g2/orig-development" target="_blank">XDA G2 Original Dev</a>
+                <br />-->
+</body>
+
+</html>

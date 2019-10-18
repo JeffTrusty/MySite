@@ -1,0 +1,25 @@
+/*
+font-family: 'Dancing Script', cursive;
+font-family: 'Roboto', sans-serif;
+*/
+
+html {
+  font-family: 'Roboto', sans-serif;
+  background-color:MidnightBlue;
+  font-size: 14px;
+  color: cyan;
+  width: 750px;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: 'Dancing Script', cursive;
+  /* padding: 0px;
+  border: 0px; */
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}

@@ -1,0 +1,101 @@
+body {
+  font-family: Arial;
+  background-color: MidnightBlue;
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+}
+
+a:link {
+  color: White;
+}
+
+a:visited,
+a:active {
+  color: deepskyblue;
+}
+
+a:hover {
+  color: lightgreen;
+  cursor: pointer;
+}
+
+.section {
+  color: Cyan;
+  font-size: 12pt;
+  text-align: left;
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+}
+
+.section_title {
+  color: Cyan;
+  font-size: 15pt;
+  font-weight: bold;
+  text-align: center;
+  padding: 2px;
+  background: #88f;
+  border: 0px;
+  border-radius: 5px;
+  padding: 0px;
+  margin: 0px;
+  animation: colorChange 2s;
+  animation-iteration-count: 4;
+  direction: alternate;
+  -webkit-animation: colorChange 2s;
+  -webkit-animation-iteration-count: 4;
+  -webkit-direction: alternate;
+}
+
+.section_container {
+  height: 0px;
+  overflow: hidden;
+  padding: 0px;
+}
+
+.section_container_links {
+  font-size: 10pt;
+  margin: 0px;
+  padding: 2px;
+  font-weight: normal;
+  cursor: pointer;
+}
+
+li {
+  list-style-type: none;
+}
+
+h1
+
+/*	Section	Headers	 */
+  {
+  color: Cyan;
+  font-size: 12pt;
+  font-weight: normal;
+  text-align: center;
+  text-decoration: underline;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 0px;
+}
+
+@-webkit-keyframes colorChange {
+  from {
+    background-color: #88f;
+  }
+
+  to {
+    background-color: blue;
+  }
+}
+
+@keyframes colorChange {
+  from {
+    background-color: #88f;
+  }
+
+  to {
+    background-color: blue;
+  }
+}
