@@ -2,10 +2,10 @@ let myImage = document.querySelector('img');
 
 myImage.onclick = function () {
   let mySrc = myImage.getAttribute('src');
-  if (mySrc === 'images/DilbertReorg.jpg') {
-    myImage.setAttribute('src', 'images/DilbertReorg.png');
+  if (mySrc === '../images/DilbertReorg.jpg') {
+    myImage.setAttribute('src', '../images/DilbertReorg.png');
   } else {
-    myImage.setAttribute('src', 'images/DilbertReorg.jpg');
+    myImage.setAttribute('src', '../images/DilbertReorg.jpg');
   }
 }
 // let myButton = document.querySelector('button');
