@@ -1,0 +1,419 @@
+{
+  "nav1": {
+    "navName": "Favorites",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "",
+        "linkSite": "",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "",
+        "linkSite": "",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "",
+        "linkSite": "",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav2": {
+    "navName": "Learning",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "Udemy",
+        "linkSite": "https://www.udemy.com",
+        "linkPwd": "MT(RA}o3"
+      },
+      {
+        "linkName": "YouTube",
+        "linkSite": "https://www.youtube.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Dev.To",
+        "linkSite": "https://dev.to",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Mozilla Developer Network",
+        "linkSite": "https://developer.mozilla.org/en-US/docs/Learn/HTML",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "MS Virtual Academy",
+        "linkSite": "http://www.microsoftvirtualacademy.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "PluralSight",
+        "linkSite": "https://www.pluralsight.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "1337 Institute Web Dev Courses (t03)",
+        "linkSite": "http://1337institute.com",
+        "linkPwd": "tue03day"
+      },
+      {
+        "linkName": "OSTraining Courses (t03)",
+        "linkSite": "https://www.ostraining.com",
+        "linkPwd": "tue03day"
+      },
+      {
+        "linkName": "Scotch.io",
+        "linkSite": "https://scotch.io/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Learn .NET",
+        "linkSite": "http://www.learnvisualstudio.net",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL TrainingSpot",
+        "linkSite": "http://www.trainingspot.com/Subscriber",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Free University Courses (Google)",
+        "linkSite": "https://www.class-central.com/report/coursera-free-online-courses/#cs",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Udacity",
+        "linkSite": "https://www.udacity.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "MSDN",
+        "linkSite": "http://msdn.microsoft.com/en-us",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Azure Dashboard",
+        "linkSite": "https://manage.windowsazure.com/?whr=#Workspaces/All/dashboard",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Code School",
+        "linkSite": "https://www.codeschool.com/learn",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Code Academy",
+        "linkSite": "http://www.codecademy.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "FreeCodeCamp",
+        "linkSite": "http://freecodecamp.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Khan Academy",
+        "linkSite": "https://www.khanacademy.org",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "HTML Coded Char Set",
+        "linkSite": "http://www.w3.org/MarkUp/html-spec/html-spec_13.html",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "W3 Schools",
+        "linkSite": "http://www.w3schools.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Lynda (oLDJtSMs61EEJUKVGasJ)",
+        "linkSite": "https://www.Lynda.com",
+        "linkPwd": "oLDJtSMs61EEJUKVGasJ"
+      },
+      {
+        "linkName": "Salesforce Trailhead",
+        "linkSite": "https://developer.salesforce.com/trailhead/trail/force_com_dev_beginner",
+        "linkPwd": ""
+      },
+      {
+        "linkName": ".NET Client Web",
+        "linkSite": "http://www.windowsforms.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "ASP .NET",
+        "linkSite": "http://www.asp.net/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Datasets vs. Recordsets",
+        "linkSite": "http://www.learnasp.com/freebook/learn/datasets.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Microsoft E-Learning",
+        "linkSite": "https://www.microsoftelearning.com/default.aspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SearchDataBase",
+        "linkSite": "http://searchdatabase.techtarget.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Microsoft Learn",
+        "linkSite": "https://docs.microsoft.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Microsoft Learn TV",
+        "linkSite": "https://docs.microsoft.com/en-us/learn/tv/",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav3": {
+    "navName": "Google",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "Google",
+        "linkSite": "https://www.Google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google Voice",
+        "linkSite": "https://voice.Google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google News",
+        "linkSite": "https://news.Google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google Play",
+        "linkSite": "https://play.Google.com/store",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google Keep",
+        "linkSite": "https://keep.Google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google Maps",
+        "linkSite": "https://maps.Google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "My Google Site",
+        "linkSite": "https://sites.google.com/site/jefftrusty/",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav4": {
+    "navName": "SQL Server",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "SQL Server Central",
+        "linkSite": "http://www.sqlservercentral.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Connection Strings",
+        "linkSite": "http://www.connectionstrings.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Free SQL Videos",
+        "linkSite": "http://www.sqlservervideos.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL TrainingSpot",
+        "linkSite": "http://www.trainingspot.com/Subscriber",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "MS SQL 2005 Webcasts",
+        "linkSite": "http://www.microsoft.com/events/series/technetsqlserver2005.mspx",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "OLAP Whitepapers",
+        "linkSite": "http://www.mosha.com/msolap/tech.htm#Whitepapers",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Replication Answers",
+        "linkSite": "http://www.replicationanswers.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL Dev Customer Advisory Team",
+        "linkSite": "http://blogs.msdn.com/sqlcat/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL DTS",
+        "linkSite": "http://www.sqldts.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL Farms",
+        "linkSite": "http://education.sqlfarms.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL SSIS",
+        "linkSite": "http://www.sqlis.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "SQL Stuff",
+        "linkSite": "http://www.sommarskog.se/arrays-in-sql.html#list-of-string-proc",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "sql-server-performance",
+        "linkSite": "http://www.sql-server-%20performance.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "T-SQL and Text files",
+        "linkSite": "http://www.simple-talk.com/sql/t-sql-programming/the-tsql-of-text-files/",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "nav5": {
+    "navName": "FoxPro",
+    "type": "Nav",
+    "navLinks": [
+      {
+        "linkName": "Hentzenwerke",
+        "linkSite": "http://www.hentzenwerke.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Development Freeservers",
+        "linkSite": "http://development.freeservers.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "FoxCentral.net",
+        "linkSite": "http://www.foxcentral.net",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Fox Wiki",
+        "linkSite": "http://fox.wikis.com/wc.dll?Wiki~FoxForumWiki'",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Foxite",
+        "linkSite": "http://www.foxite.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Foxtools",
+        "linkSite": "http://www.foxtools.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Oak Leaf Enterprises",
+        "linkSite": "http://www.oakleafsd.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Wiki-CBSampleAppDocs",
+        "linkSite": "http://fox.wikis.com/wc.dll?wiki~CBSampleAppDocs",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Wiki-VisualFoxPro",
+        "linkSite": "http://fox.wikis.com/wc.dll?Wiki~VisualFoxPro",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "Section1": {
+    "navName": "My Most Used",
+    "type": "Section",
+    "navLinks": [
+      {
+        "linkName": "Cord Cutters News",
+        "linkSite": "https://www.cordcuttersnews.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Amazon",
+        "linkSite": "https://smile.amazon.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "AFCU",
+        "linkSite": "https://www.americafirst.com/",
+        "linkPwd": "Sun25Day!"
+      },
+      {
+        "linkName": "Udemy",
+        "linkSite": "https://www.udemy.com",
+        "linkPwd": "MT(RA}o3"
+      },
+      {
+        "linkName": "YouTube",
+        "linkSite": "https://www.youtube.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google",
+        "linkSite": "https://www.google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google Voice",
+        "linkSite": "https://voice.google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Google News",
+        "linkSite": "https://news.google.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "MSN",
+        "linkSite": "https://www.msn.com",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Microsoft Learn",
+        "linkSite": "https://docs.microsoft.com/",
+        "linkPwd": ""
+      },
+      {
+        "linkName": "Microsoft Learn TV",
+        "linkSite": "https://docs.microsoft.com/en-us/learn/tv/",
+        "linkPwd": ""
+      }
+    ]
+  },
+  "Section2": {
+    "navName": "Online Accounts",
+    "type": "Section",
+    "navLinks": [
+      {
+        "linkName": "",
+        "linkSite": "",
+        "linkPwd": ""
+      }
+    ]
+  }
+}
