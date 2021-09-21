@@ -21,11 +21,12 @@ body
 {
   background-color:royalblue;
   margin-top: 3px;
+  color: navy;
 }
 button
 {
   background-color:royalblue;
-  color: cyan;
+  color: navy;
   padding: 0px;
   border: 0px;
   margin-top: 3px;
@@ -46,11 +47,12 @@ button
     color: navy;
     background-color: deepskyblue;
   } */
-a:visited, a:active
+a:visited
+/* , a:active */
   {
-    color: deepskyblue;
+    color: cyan;
   }
-a:hover
+/* a:hover
   {
     color: lightgreen;
     font-family: Arial;
@@ -58,7 +60,7 @@ a:hover
     padding: 0px;
     border: 0px;
     margin: 0px;
-  }
+  } */
 .navbar
   {
   margin-top: 5px;
