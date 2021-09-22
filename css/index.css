@@ -1,57 +1,50 @@
-body
-  {
-    font-family: Arial;
-    background-color:MidnightBlue;
-    padding: 0px;
-    border: 0px;
-    margin: 0px;
-  }
-.dropdown-toggle
-{
+body {
+  font-family: Arial;
+  background-color: MidnightBlue;
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+}
+.dropdown-toggle {
   padding-top: 0px;
   border-radius: 5px;
 }
-.dropdown-item:hover
-{
-  color: cyan;
-  background-color:navy;
+.dropdown-item:hover {
+  color: navy;
+  background-color: royalblue;
   cursor: pointer;
 }
-.btn
-{
-  background-color:royalblue;
+.btn {
+  background-color: royalblue;
   margin-top: 3px;
-  color: navy;
+  font-size: x-large;
+  color: cyan;
 }
-button
-{
-  background-color:royalblue;
+button {
+  background-color: royalblue;
   color: navy;
   padding: 0px;
   border: 0px;
   margin-top: 3px;
 }
-.panel-heading
-{
+.panel-heading {
   border: 3px;
   border-radius: 5px;
   margin-top: 5px;
 }
-.panel-body
-{
+.panel-body {
   border: 3px;
   margin: 3px;
 }
-  /* a:link
+/* a:link
   {
     color: navy;
     background-color: deepskyblue;
   } */
-a:visited
-/* , a:active */
-  {
-    color: cyan;
-  }
+a:visited,
+a:active {
+  color: cyan;
+}
 /* a:hover
   {
     color: lightgreen;
@@ -61,67 +54,22 @@ a:visited
     border: 0px;
     margin: 0px;
   } */
-.navbar
-  {
+.navbar {
   margin-top: 5px;
   border-radius: 5px;
-  }
-.dropdown-menu
-  {
-    background-color:royalblue;
-  }
-.dropdown-item
-  {
-    background-color:royalblue;
-    color: cyan;
-  }
-.dropdown-item:hover
-  {
-    color: cyan;
-    background-color:navy;
-    cursor: pointer;
-  }
-li
-{
+}
+.dropdown-menu {
+  background-color: royalblue;
+}
+.dropdown-item {
+  background-color: royalblue;
+  color: cyan;
+}
+.dropdown-item:hover {
+  color: navy;
+  background-color: royalblue;
+  cursor: pointer;
+}
+li {
   list-style-type: none;
 }
-/* p   Section  Headers */
-/* {
-  background-color:royalblue;
-  color: Cyan;
-  font-size: 12pt;
-  font-weight: normal;
-  text-align: center;
-  padding: 5px;
-  border-radius: 5px;
-  margin: 0px;
-} */
-/* h1  /*  Section  Headers   */
-/* {
-  color: Cyan;
-  font-size: 12pt;
-  font-weight: normal;
-  text-align: center;
-  text-decoration: underline;
-  padding: 5px;
-  border-radius: 5px;
-  margin: 0px;
-} */ */
-
-/* @-webkit-keyframes colorChange
-{
-  from {background-color: #88F;}
-  to {background-color: blue;}
-}
-
-@keyframes colorChange
-{
-  from {background-color: #88F;}
-  to {background-color: blue;}
-} */
-
-/* #Optum ERP
-{
-  margin-left: auto;
-  margin-right: auto;
-} */
