@@ -3,7 +3,7 @@ body {
   background-color: MidnightBlue;
   padding: 0px;
   border: 0px;
-  margin: 0px;
+  margin-right: 0px;
 }
 .dropdown-toggle {
   padding-top: 0px;
@@ -17,7 +17,7 @@ body {
 .btn {
   background-color: royalblue;
   margin-top: 3px;
-  font-size: x-large;
+  font-size: larger;
   color: cyan;
 }
 button {
@@ -41,8 +41,8 @@ button {
     color: navy;
     background-color: deepskyblue;
   } */
-a:visited,
-a:active {
+a:visited {
+  /* a:active { */
   color: cyan;
 }
 /* a:hover
@@ -59,11 +59,18 @@ a:active {
   border-radius: 5px;
 }
 .dropdown-menu {
+  margin-right: 50px;
+  padding: 0;
   background-color: royalblue;
 }
 .dropdown-item {
   background-color: royalblue;
   color: cyan;
+  font-weight: 100;
+  font-size: 8px;
+  border: 0px;
+  padding: 0px;
+  margin: 0px 0px 0px 0px;
 }
 .dropdown-item:hover {
   color: navy;
@@ -72,4 +79,8 @@ a:active {
 }
 li {
   list-style-type: none;
+}
+.nav-item {
+  font-size: small;
+  color: cyan;
 }
