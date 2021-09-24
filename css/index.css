@@ -41,19 +41,11 @@ button {
     color: navy;
     background-color: deepskyblue;
   } */
-a:visited {
-  /* a:active { */
+a:visited,
+a:active {
   color: cyan;
 }
-/* a:hover
-  {
-    color: lightgreen;
-    font-family: Arial;
-    background-color:MidnightBlue;
-    padding: 0px;
-    border: 0px;
-    margin: 0px;
-  } */
+
 .navbar {
   margin-top: 5px;
   border-radius: 5px;
@@ -72,7 +64,9 @@ a:visited {
   padding: 0px;
   margin: 0px 0px 0px 0px;
 }
-.dropdown-item:hover {
+.dropdown-item:hover,
+.btn:hover,
+.nav-item:hover {
   color: navy;
   background-color: royalblue;
   cursor: pointer;
@@ -81,6 +75,10 @@ li {
   list-style-type: none;
 }
 .nav-item {
-  font-size: small;
+  font-size: large;
   color: cyan;
+}
+.nav-link,
+.navbar-brand {
+  font-size: x-large;
 }
